@@ -34,18 +34,18 @@ Being able to create things through code has strengthened my technical side. I w
 
 ## Education
 
-#### Maker's Academy, Web Developer Bootcamp (February - June 2017)
+#### Maker's Academy (February - June 2017)
 
-- Highly selective, 10% acceptance rate
-- Full stack technologies
-- Emphasis on agile practices such as OOP, TDD, SOLID, MVC, DDD
+- Highly selective web developer bootcamp, 10% acceptance rate
+- Over the three months we were exposed to many production languages and testing frameworks such as Ruby, Javascript, Python, Rails and RSpec, Capybara
+- There was an emphasis on adopting agile methodologies such as Object Orientated Programming, Test Driven Development and values such as SOLID principles and Extreme Programming values
 - Alongside the course I attended regular meet ups and workshops in London to engage with the wider community and to experience new technologies. I have enjoyed [El rug](http://lrug.org/) and [Codebar](https://codebar.io/) the most.
 
 #### University of Bristol (September 2013 - May 2016)
-Geography (BSc), 2:1
-**Dissertation:** *An investigation into British Chinese Identity in the context of the Chinese restaurant; critical exploration of British Chinese Food Culture and Chinese Diaspora*
-**Units studied:** Political Economy, Biopolitics, Geographies of Food, Statistics
-**Extra Curricular:** *Event Director, FUZE 2016*
+- Geography (BSc), 2:1
+- **Dissertation:** *An investigation into British Chinese Identity in the context of the Chinese restaurant; critical exploration of British Chinese Food Culture and Chinese Diaspora*
+- **Units studied:** Political Economy, Biopolitics, Geographies of Food, Statistics
+- **Extra Curricular:** *Event Director, FUZE 2016*
 - Bristol University's FUZE is UK's largest student run charity fashion, music and dance event
 - Worked alongside one other event director to manage and curate design ideas to implement the theme 'Wonderland'.
 - Successfully met with local prop companies to create a one of a kind 'Wonderland' experience. The event raised over £2,600 for Ditch the Label charity focused on cyberbullying.
