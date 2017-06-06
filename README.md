@@ -58,8 +58,9 @@ Being able to create things through code has strengthened my technical side. I w
 - Played the violin in the Symphony Orchestra which toured over the Summer of 2010 in Tuscany.
 
 ## Interests
-- **Health & wellbeing:** If there is one thing I could do more of, it would be yoga.
-- **Travel:** My last adventure was in Mexico.
+- **Health & fitness:** Yoga, pilates, swimming
+- **Music:** Violin, piano, guitar
+- **Travel:** My last adventure was in Mexico!
 
 ## Contact
 e-mail: echai93@gmail.com
