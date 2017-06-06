@@ -60,6 +60,7 @@ Being able to create things through code has strengthened my technical side. I w
 ## Interests
 - **Health & fitness:** Yoga, pilates, swimming
 - **Music:** Violin, piano, guitar
+- **Foodie:** Japanese cuisine is my favourite
 - **Travel:** My last adventure was in Mexico!
 
 ## Contact
