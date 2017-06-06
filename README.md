@@ -10,19 +10,19 @@ I have always enjoyed using new technologies and being creative. Now seeing how 
 
 Being able to create things through code has strengthened my technical side. I would like to nurture my growing passion for programming in an environment that will encourage me to maximise my learning, as well as one that engages with best practices.
 
-## Projects
+## Projects
 
-Project  | Summary     | Technologies | Testing |  
----------|-----------------|--------------|---------|
-1. [Boris Bikes](https://github.com/exchai93/Week_1-Borris-Bike-) | The first project I worked on at Maker's. Compare this with my latest projects and see how far I've come. | Ruby | Rspec |
-2. [Maker's Bnb](https://github.com/emmpak/EEEKbnb)| With 5 weeks of coding experience, we worked in teams of 5 to create a clone of Airbnb. | Ruby, HTML, CSS, Datamapper, Postgresql, Sinatra, Selenium-Webdriver, Bcrypt | Rspec, Capybara, Coveralls |
-3. [Number Identifier](https://github.com/nazwhale/tree-spotter)| For our  practice project we dived deep and learnt about neural networks. We made our our own machine learning app that could recognise hand written digits. | Tensorflow, Python, Rails | Rspec
-4. [Alexa Bakes](https://github.com/exchai93/alexa_sous_chef) | Our final project at Maker's. 4 Maker's new to voice technology given 10 days to create a hands free cooking assistant. Dangerous.| Ruby, Sinatra, Amazon Developer, Amazon Skills Kit| RSpec
+|Project|Summary|Technologies|Testing|  
+|--|--|--|--|
+|1. [Boris Bikes](https://github.com/exchai93/Week_1-Borris-Bike-) | The first project I worked on at Maker's. Compare this with my latest projects and see how far I've come. |Ruby|Rspec|
+|2. [Maker's Bnb](https://github.com/emmpak/EEEKbnb)| With 5 weeks of coding experience, 5 Makers worked to create a clone of Airbnb. |Ruby, HTML, CSS, Datamapper, Postgresql, Sinatra, Selenium-Webdriver, Bcrypt|Rspec, Capybara, Coveralls|
+|3. [Number Identifier](https://github.com/nazwhale/tree-spotter)| For our  practice project we dived deep and learnt about neural networks. We made our our own machine learning app that could recognise hand written digits. |Tensorflow, Python, Rails| Rspec
+|4. [Alexa Bakes](https://github.com/exchai93/alexa_sous_chef) | Our final project at Maker's. New to voice technology, 4 Makers given 10 days to create a hands free cooking assistant. Dangerous.| Ruby, Sinatra, Amazon Developer, Amazon Skills Kit| RSpec|
 
 ## Experience
 
 **[Chi London](http://www.chilondon.com/)** (August 2016 to December 2016)
-<p> *Marketing and Advertising Assistant Intern*
+*Marketing and Advertising Assistant Intern*
 - Oversaw all aspects of marketing and advertising for Chi, a well established, premium drinks company.
 - Managed social media coverage for all of Chi's brands: Chi Coconut Water, Chi White and Giving Tree Snacks, with the aim to increase online presence.
 - Engaged directly with traders and consumers at annual food and drink exhibitor events such as Lunch! And the Yoga OM Show.
@@ -59,7 +59,7 @@ Project  | Summary     | Technologies | Testing |
 
 ## Interests
 - **Health & wellbeing:** If there is one thing I could do more of, it would be yoga.
-- **Travel:** My last adventure was in Mexico. 
+- **Travel:** My last adventure was in Mexico.
 
 ## Contact
 e-mail: echai93@gmail.com
