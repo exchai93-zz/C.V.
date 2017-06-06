@@ -21,38 +21,36 @@ Being able to create things through code has strengthened my technical side. I w
 
 ## Experience
 
-**[Chi London](http://www.chilondon.com/)** (August 2016 to December 2016)
+**[Chi London](http://www.chilondon.com/)** (August - December 2016)
 *Marketing and Advertising Assistant Intern*
 - Oversaw all aspects of marketing and advertising for Chi, a well established, premium drinks company.
 - Managed social media coverage for all of Chi's brands: Chi Coconut Water, Chi White and Giving Tree Snacks, with the aim to increase online presence.
 - Engaged directly with traders and consumers at annual food and drink exhibitor events such as Lunch! And the Yoga OM Show.
 
-**[Envido Ltd](https://www.edie.net/51956/d/Envido-Ltd)** (September 2012 to December 2012)
-<p> *Research analyst intern*  
+**[Envido Ltd](https://www.edie.net/51956/d/Envido-Ltd)** (September - December 2012)
+*Research analyst intern*  
 - Efficiently learnt how to use Envido's own software, Ensmart, to upload, analyse and manipulate energy data for several clients projects.
 - As my first extensive experience in a working office environment, I developed an eye for detail, team skills and time management.
 
 ## Education
 
-#### Maker's Academy, Web Developer Bootcamp
-*February 2017 - June 2017*
+#### Maker's Academy, Web Developer Bootcamp (February - June 2017)
+
 - Highly selective, 10% acceptance rate
 - Full stack technologies
 - Emphasis on agile practices such as OOP, TDD, SOLID, MVC, DDD
-- Alongside the course I attended regular meet ups and workshops in London to engage with the wider community and experience new technologies. I have enjoyed [El rug](http://lrug.org/) and [Codebar](https://codebar.io/) the most.
+- Alongside the course I attended regular meet ups and workshops in London to engage with the wider community and to experience new technologies. I have enjoyed [El rug](http://lrug.org/) and [Codebar](https://codebar.io/) the most.
 
-#### University of Bristol
-*September 2013 - May 2016*
-- Geography (BSc), 2:1
-- **Dissertation:** *An investigation into British Chinese Identity in the context of the Chinese restaurant; critical exploration of British Chinese Food Culture and Chinese Diaspora*
-- **Units studied:** Political Economy, Biopolitics, Geographies of Food, Statistics
-- **Extra Curricular:** *Event Director, FUZE 2016*
+#### University of Bristol (September 2013 - May 2016)
+Geography (BSc), 2:1
+**Dissertation:** *An investigation into British Chinese Identity in the context of the Chinese restaurant; critical exploration of British Chinese Food Culture and Chinese Diaspora*
+**Units studied:** Political Economy, Biopolitics, Geographies of Food, Statistics
+**Extra Curricular:** *Event Director, FUZE 2016*
 - Bristol University's FUZE is UK's largest student run charity fashion, music and dance event
 - Worked alongside one other event director to manage and curate design ideas to implement the theme 'Wonderland'.
 - Successfully met with local prop companies to create a one of a kind 'Wonderland' experience. The event raised over £2,600 for Ditch the Label charity focused on cyberbullying.
 
-#### Haberdasher's Askes' School for Girls
-*September 2005 - June 2012*
+#### Haberdasher's Askes' School for Girls (September 2005 - June 2012)
 - **A Level**: Economics (A), Geography (A), Maths (A)
 - **AS Level**: Spanish (B)
 - Played the violin in the Symphony Orchestra which toured over the Summer of 2010 in Tuscany.
