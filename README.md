@@ -8,7 +8,7 @@ With a background in geography and marketing, I decided to take the leap to lear
 
 I have always enjoyed using new technologies and being creative. Now seeing how these two aspects come together when coding excites me.
 
-Being able to create things through code has strengthened my technical side. I would like to nurture my growing passion for writing code in an environment that will encourage me to maximise my learning, as well as one that engages with best practices such as agile and TDD.
+I would like to nurture my growing passion for writing code in an environment that will encourage me to maximise my learning, as well as one that engages in best practices such as agile, TDD and pair programming.
 
 ## Projects
 
@@ -44,7 +44,7 @@ Being able to create things through code has strengthened my technical side. I w
 #### University of Bristol (September 2013 - May 2016)
 - Geography (BSc), 2:1
 - **Dissertation:** *An investigation into British Chinese Identity in the context of the Chinese restaurant; critical exploration of British Chinese Food Culture and Chinese Diaspora*
-- **Units studied:** Political Economy, Biopolitics, Geographies of Food, Statistics
+- **Final year units studied:** Advanced Topics in Critical Political Economy, Colonial and Postcolonial Geographies, Geographies of Food, Geographies of the Anthropocene, Spatial Modelling
 - **Extra Curricular:** *Event Director, FUZE 2016*
 - Bristol University's FUZE is UK's largest student run charity fashion, music and dance event
 - Worked alongside one other event director to manage and curate design ideas to implement the theme 'Wonderland'.
