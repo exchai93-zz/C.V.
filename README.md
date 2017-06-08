@@ -8,7 +8,7 @@ With a background in geography and marketing, I decided to take the leap to lear
 
 I have always enjoyed using new technologies and being creative. Now seeing how these two aspects come together when coding excites me.
 
-Being able to create things through code has strengthened my technical side. I would like to nurture my growing passion for programming in an environment that will encourage me to maximise my learning, as well as one that engages with best practices.
+Being able to create things through code has strengthened my technical side. I would like to nurture my growing passion for writing code in an environment that will encourage me to maximise my learning, as well as one that engages with best practices such as agile and TDD.
 
 ## Projects
 
