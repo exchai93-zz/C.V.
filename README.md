@@ -39,16 +39,15 @@ I would like to nurture my growing passion for writing code in an environment th
 - Highly selective web developer bootcamp, 10% acceptance rate
 - Over the three months we were exposed to many production languages and testing frameworks such as Ruby, Javascript, Python, Rails and RSpec, Capybara
 - There was an emphasis on adopting agile methodologies such as Object Orientated Programming, Test Driven Development and values such as SOLID principles and Extreme Programming values
-- Alongside the course I attended regular meet ups and workshops in London to engage with the wider community and to experience new technologies. I have enjoyed [El rug](http://lrug.org/) and [Codebar](https://codebar.io/) the most.
+- Alongside the course I attended regular meet ups and workshops in London to engage with the wider community. I got to experience new technologies such as mobile development at the Android development workshop at [Codebar](https://codebar.io/).
+
 
 #### University of Bristol (September 2013 - May 2016)
 - Geography (BSc), 2:1
 - **Dissertation:** *An investigation into British Chinese Identity in the context of the Chinese restaurant; critical exploration of British Chinese Food Culture and Chinese Diaspora*
 - **Final year units studied:** Advanced Topics in Critical Political Economy, Colonial and Postcolonial Geographies, Geographies of Food, Geographies of the Anthropocene, Spatial Modelling
 - **Extra Curricular:** *Event Director, FUZE 2016*
-- Bristol University's FUZE is UK's largest student run charity fashion, music and dance event
-- Worked alongside one other event director to manage and curate design ideas to implement the theme 'Wonderland'.
-- Successfully met with local prop companies to create a one of a kind 'Wonderland' experience. The event raised over £2,600 for Ditch the Label charity focused on cyberbullying.
+I was event director for FUZE 2016, UK’s largest student run charity fashion, music and dance event. I managed and curated design ideas to implement the theme ‘Wonderland’, successfully working with local prop companies. The event raised over £2,600 for Ditch the Label charity focused on cyberbullying.
 
 #### Haberdasher's Askes' School for Girls (September 2005 - June 2012)
 - **A Level**: Economics (A), Geography (A), Maths (A)
