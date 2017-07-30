@@ -36,9 +36,16 @@ I would like to nurture my growing passion for writing code in an environment th
 
 #### Maker's Academy (February - June 2017)
 
-- Highly selective web developer bootcamp, 10% acceptance rate
-- Over the three months we were exposed to many production languages and testing frameworks such as Ruby, Javascript, Python, Rails and RSpec, Capybara, Jasmine.
-- There was an emphasis on adopting agile methodologies such as Object Orientated Programming, Test Driven Development and values such as SOLID principles and Extreme Programming values
+- Europe's leading web developer bootcamp, 10% acceptance rate
+- Over the three months we were exposed to many production languages and testing frameworks:
+
+| Production languages| Testing frameworks|
+|---------------------|-------------------|
+| Ruby | Rspec|
+| Ruby on Rails| Jasmine|
+| Javascript | Capybara|
+
+- There was an emphasis on adopting agile methodologies such as Object Orientated Programming, Test Driven Development and values such as SOLID and Extreme Programming.
 - Alongside the course I attended regular meet ups and workshops in London to engage with the wider community. I got to experience new technologies such as mobile development at the Android development workshop at [Codebar](https://codebar.io/).
 
 
