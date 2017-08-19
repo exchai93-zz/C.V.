@@ -2,13 +2,11 @@
 
 [Projects](#projects) | [Experience](#experience) | [Education](#Education) | [Interests](#Interests)| [Contact](#Contact)
 
-Fresh out of [Maker's Academy](https://github.com/makersacademy), I am looking to start my career as a Junior Full-Stack Developer.
+Having recently finished [Maker's Academy](https://github.com/makersacademy) - leading web development bootcamp based in London, I am looking to start my career as a Junior Full-Stack Developer.
 
-With a background in geography and marketing, I decided to take the leap to learn to code after feeling unfulfilled and without direction.
+With a background in geography and marketing, I decided to take the leap to learn to code after feeling unfulfilled and without direction. I have always enjoyed using new technologies and being creative. Now seeing how these two aspects come together when coding excites me.
 
-I have always enjoyed using new technologies and being creative. Now seeing how these two aspects come together when coding excites me.
-
-I would like to nurture my growing passion for writing code in an environment that will encourage me to maximise my learning, as well as one that engages in best practices such as agile, TDD and pair programming.
+Since finishing Makers Academy, I have been internig for SoftChow who are involved in two upcoming food tech brands. I would like to nurture my growing passion for writing code in an environment that will encourage me to maximise my learning, as well as one that engages in best practices such as agile, TDD and pair programming.
 
 ## Projects
 
@@ -72,5 +70,4 @@ e-mail: echai93@gmail.com
 
 **Find me online:**
 [Linkedin](https://www.linkedin.com/in/emily-chai-661b26116/) |
-[Blog](http://medium.com/emilyxchai) |
 [Twitter](https://twitter.com/chaicodes)
