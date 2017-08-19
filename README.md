@@ -6,7 +6,7 @@ Having recently finished [Maker's Academy](https://github.com/makersacademy) - l
 
 With a background in geography and marketing, I decided to take the leap to learn to code after feeling unfulfilled and without direction. I have always enjoyed using new technologies and being creative. Now seeing how these two aspects come together when coding excites me.
 
-Since finishing Makers Academy, I have been internig for SoftChow who are involved in two upcoming food tech brands. I would like to nurture my growing passion for writing code in an environment that will encourage me to maximise my learning, as well as one that engages in best practices such as agile, TDD and pair programming.
+Since finishing Makers Academy, I have been interning for SoftChow who are involved in two upcoming food tech brands. I would like to nurture my growing passion for writing code in an environment that will encourage me to maximise my learning, as well as one that engages in best practices such as agile, TDD and pair programming.
 
 ## Projects
 
