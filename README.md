@@ -6,18 +6,21 @@ Having recently finished [Maker's Academy](https://github.com/makersacademy) - l
 
 With a background in geography and marketing, I decided to take the leap to learn to code after feeling unfulfilled and without direction. I have always enjoyed using new technologies and being creative. Now seeing how these two aspects come together when coding excites me.
 
-Since finishing Makers Academy, I have been interning for SoftChow who are involved in two upcoming food tech brands. I would like to nurture my growing passion for writing code in an environment that will encourage me to maximise my learning, as well as one that engages in best practices such as agile, TDD and pair programming.
+I would like to nurture my growing passion for writing code in an environment that will encourage me to maximise my learning, as well as one that engages in best practices such as agile, TDD and pair programming.
 
 ## Projects
 
 |Project|Summary|Technologies|Testing|  
 |--|--|--|--|
-|1. [Boris Bikes](https://github.com/exchai93/Week_1-Borris-Bike-) | The first project I worked on at Maker's. Compare this with my latest projects and see how far I've come. |Ruby|Rspec|
-|2. [Maker's Bnb](https://github.com/emmpak/EEEKbnb)| With 5 weeks of coding experience, 5 Makers worked to create a clone of Airbnb. |Ruby, HTML, CSS, Datamapper, Postgresql, Sinatra, Selenium-Webdriver, Bcrypt|Rspec, Capybara, Coveralls|
-|3. [Number Identifier](https://github.com/nazwhale/tree-spotter)| For our  practice project we dived deep and learnt about neural networks. We made our our own machine learning app that could recognise hand written digits. |Tensorflow, Python, Rails| Rspec
-|4. [Alexa Bakes](https://github.com/exchai93/alexa_sous_chef) | Our final project at Maker's. New to voice technology, 4 Makers given 10 days to create a hands free cooking assistant. Dangerous.| Ruby, Sinatra, Amazon Developer, Amazon Skills Kit| RSpec|
+|1. [Maker's Bnb](https://github.com/emmpak/EEEKbnb)| With 5 weeks of coding experience, 5 Makers worked to create a clone of Airbnb. |Ruby, HTML, CSS, Datamapper, Postgresql, Sinatra, Selenium-Webdriver, Bcrypt|Rspec, Capybara, Coveralls|
+|2. [Number Identifier](https://github.com/nazwhale/tree-spotter)| For our  practice project we dived deep and learnt about neural networks. We made our our own machine learning app that could recognise hand written digits. |Tensorflow, Python, Rails| Rspec
+|3. [Alexa Bakes](https://github.com/exchai93/alexa_sous_chef) | Our final project at Maker's. New to voice technology, 4 Makers given 10 days to create a hands free cooking assistant. Dangerous.| Ruby, Sinatra, Amazon Developer, Amazon Skills Kit| RSpec|
+|4. [Poker Game](https://github.com/exchai93/poker_game) | The simplest poke game you'll ever play! | Ruby | RSpec|
 
 ## Experience
+
+**[SoftChow London](http://www.softchow.com/)** (Present)
+*Web Developer Intern*
 
 **[Chi London](http://www.chilondon.com/)** (August - December 2016)
 *Marketing and Advertising Assistant Intern*
@@ -61,7 +64,6 @@ I was event director for FUZE 2016, UK’s largest student run charity fashion, 
 
 ## Interests
 - **Health & fitness:** Yoga, pilates, swimming
-- **Music:** Violin, piano, guitar
 - **Foodie:** Japanese cuisine is my favourite
 - **Travel:** My last adventure was in Mexico!
 
@@ -69,5 +71,6 @@ I was event director for FUZE 2016, UK’s largest student run charity fashion, 
 e-mail: echai93@gmail.com
 
 **Find me online:**
+[Website](http://www.emilychai.com) |
 [Linkedin](https://www.linkedin.com/in/emily-chai-661b26116/) |
 [Twitter](https://twitter.com/chaicodes)
