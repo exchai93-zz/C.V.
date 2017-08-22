@@ -21,17 +21,22 @@ I would like to nurture my growing passion for writing code in an environment th
 
 **[SoftChow London](http://www.softchow.com/)** (Present)
 *Web Developer Intern*
+With the upcoming launch of two highly anticipated food tech brands, I have been involved in the design implementation of web apps; assisting with both the design aesthetics as well as functionality. I have used new programs such as Flinto, Sketch, InVision. Seeing the development of agile processes in a live project has been extremely exciting.
+
 
 **[Chi London](http://www.chilondon.com/)** (August - December 2016)
 *Marketing and Advertising Assistant Intern*
-- Oversaw all aspects of marketing and advertising for Chi, a well established, premium drinks company.
-- Managed social media coverage for all of Chi's brands: Chi Coconut Water, Chi White and Giving Tree Snacks, with the aim to increase online presence.
-- Engaged directly with traders and consumers at annual food and drink exhibitor events such as Lunch! And the Yoga OM Show.
+Oversaw all aspects of marketing and advertising for Chi, an established premium drinks company. Managed social media platforms for all of Chi’s brands with the aim to increase online presence. Engaged directly with traders and consumers at food and drink exhibitor events in London.
+
+**[Randle Siddeley Landscaping]**
+(August-September 2015)
+Worked closely with the outdoor maintenance team, increasing my botanical knowledge. In the office, I used programs such as InDesign, Photoshop and CADCAM to edit project plans.
+
 
 **[Envido Ltd](https://www.edie.net/51956/d/Envido-Ltd)** (September - December 2012)
 *Research analyst intern*  
-- Efficiently learnt how to use Envido's own software, Ensmart, to upload, analyse and manipulate energy data for several clients projects.
-- As my first extensive experience in a working office environment, I developed an eye for detail, team skills and time management.
+As my first extensive experience working in an office environment, I developed as a professional individual with team skills and an eye for detail. I efficiently learnt how to use Envido’s own software, Ensmart, to upload, analyse and manipulate energy data for several client projects.
+
 
 ## Education
 
@@ -72,5 +77,5 @@ e-mail: echai93@gmail.com
 
 **Find me online:**
 [Website](http://www.emilychai.com) |
-[Linkedin](https://www.linkedin.com/in/emily-chai-661b26116/) |
+[Linkedin](https://www.linkedin.com/in/emilyxchai) |
 [Twitter](https://twitter.com/chaicodes)
