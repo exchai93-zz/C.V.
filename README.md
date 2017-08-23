@@ -21,7 +21,7 @@ I would like to nurture my growing passion for writing code in an environment th
 
 **[SoftChow London](http://www.softchow.com/)** (Present)
 *Web Developer Intern*
-With the upcoming launch of two highly anticipated food tech brands, I have been involved in the design implementation of web apps; assisting with both the design aesthetics as well as functionality. I have used new programs such as Flinto, Sketch, InVision. Seeing the development of agile processes in a live project has been extremely exciting.
+With the upcoming launch of two highly anticipated food tech brands, I have been involved in the design implementation of web apps; assisting with both the design aesthetics as well as functionality. I have used new programs such as Flinto, Sketch, InVision to create prototypes. Seeing the development of agile processes in a live project has been extremely exciting.
 
 
 **[Chi London](http://www.chilondon.com/)** (August - December 2016)
