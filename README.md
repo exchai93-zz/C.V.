@@ -28,7 +28,7 @@ With the upcoming launch of two highly anticipated food tech brands, I have been
 *Marketing and Advertising Assistant Intern*
 Oversaw all aspects of marketing and advertising for Chi, an established premium drinks company. Managed social media platforms for all of Chi’s brands with the aim to increase online presence. Engaged directly with traders and consumers at food and drink exhibitor events in London.
 
-**[Randle Siddeley Landscaping]**
+**Randle Siddeley Landscaping**
 (August-September 2015)
 Worked closely with the outdoor maintenance team, increasing my botanical knowledge. In the office, I used programs such as InDesign, Photoshop and CADCAM to edit project plans.
 
