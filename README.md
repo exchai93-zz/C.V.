@@ -2,7 +2,7 @@
 
 [Projects](#projects) | [Experience](#experience) | [Education](#Education) | [Interests](#Interests)| [Contact](#Contact)
 
-Having recently finished [Maker's Academy](https://github.com/makersacademy) - leading web development bootcamp based in London, I am looking to start my career as a Junior Full-Stack Developer.
+Having recently finished [Maker's Academy](https://github.com/makersacademy) - leading web development bootcamp, I am looking to start my career as a Junior Full-Stack Developer.
 
 With a background in geography and marketing, I decided to take the leap to learn to code after feeling unfulfilled and without direction. I have always enjoyed using new technologies and being creative. Now seeing how these two aspects come together when coding excites me.
 
@@ -21,7 +21,8 @@ I would like to nurture my growing passion for writing code in an environment th
 
 **[SoftChow London](http://www.softchow.com/)** (Present)
 *Web Developer Intern*
-With the upcoming launch of two highly anticipated food tech brands, I have been involved in the design implementation of web apps; assisting with both the design aesthetics as well as functionality. I have used new programs such as Flinto, Sketch, InVision to create prototypes. Seeing the development of agile processes in a live project has been extremely exciting.
+With the upcoming launch of two highly anticipated food tech brands, I have been involved in the design implementation of web apps; assisting with both the design aesthetics as well as functionality. I have used new programs such as Flinto, Sketch, InVision to create prototypes. Seeing the development of agile processes in a live project has been extremely exciting. <br>
+Technologies used: Rails and React Native
 
 
 **[Chi London](http://www.chilondon.com/)** (August - December 2016)
