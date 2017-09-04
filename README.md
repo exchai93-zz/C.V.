@@ -22,7 +22,7 @@ I would like to nurture my growing passion for writing code in an environment th
 **[SoftChow London](http://www.softchow.com/)** (Present)
 *Web Developer Intern*
 With the upcoming launch of two highly anticipated food tech brands, I have been involved in the design implementation of web apps; assisting with both the design aesthetics as well as functionality. I have created holding page prototypes with Javascript and JQuery. Seeing the development of agile processes in a live project has been extremely exciting. <br>
-Technologies used: Rails and React Native
+Tech stack: Rails and React Native
 
 
 **[Chi London](http://www.chilondon.com/)** (August - December 2016)
